@@ -74,8 +74,8 @@ Kami mendesain Sakoo agar relevan untuk berbagai latar belakang profesi:
 
 - 🌐 **Website Produksi Sakoo:** [https://sakoo.my.id](https://sakoo.my.id)
 - 🛠 **Dokumentasi Developer:**
-  - [📄 Panduan Model AI (ML)](./docs/USAGE_MODEL.md)
-  - [💻 Panduan Frontend (React + Vite)](./docs/USAGE_FE.md)
+  - [📄 Panduan Model AI (ML)](https://github.com/oscode04/sakoo/tree/main/Machine%20Learning#readme)
+  - [💻 Panduan Frontend (React + Vite)](https://github.com/oscode04/sakoo/tree/main/Front%20End#readme)
   - [🔧 Panduan Backend (Node.js & Flask)](./docs/USAGE_BE.md)
 
 ---
